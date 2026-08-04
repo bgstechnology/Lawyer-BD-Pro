@@ -1,0 +1,6 @@
+{
+  "name": "Lawyer BD Pro",
+  "description": "A premium and professional Android application for lawyers and legal practitioners in Bangladesh, featuring a Digital Law Library, AI Legal Assistant, Case Management System, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
